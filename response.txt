@@ -1,0 +1,7 @@
+I'd be happy to help you out with that.
+
+So, you're wondering where CSS is taught in our Sigma web development course? Well, let me check the videos for you!
+
+After reviewing the video chunks, I found that CSS is introduced in Video 5: "Image, Lists, and Tables in HTML". Specifically, you can find information on CSS at around 155 seconds into the video.
+
+Unfortunately, it seems that CSS isn't a separate video, but rather it's covered in Video 5 along with other topics like images, lists, and tables.
